@@ -2,6 +2,10 @@
 
 Based on https://github.com/vmasto/express-babel Express.js with Babel Boilerplate
 
+### Requirements:
+
+- Node 8+
+
 ### Features:
 - [Express.js](https://expressjs.com/) as the web framework.
 - ES2017+ support with [Babel](https://babeljs.io/).
